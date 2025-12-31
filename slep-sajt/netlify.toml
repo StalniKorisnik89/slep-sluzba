@@ -1,4 +1,7 @@
-# Netlify configuration for proper headers
+# Netlify configuration
+[build]
+  publish = "."
+
 [[headers]]
   for = "/*.jpg"
   [headers.values]
