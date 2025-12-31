@@ -264,7 +264,7 @@ body {
     height: 100%;
     /* Night scene with tow truck/recovery vehicle - professional towing service at night */
     /* Local image from images folder */
-    background-image: url('/images/e32c905b-e88d-4f84-b831-d49900bd1716.png');
+    background-image: url('./images/e32c905b-e88d-4f84-b831-d49900bd1716.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -603,7 +603,7 @@ section {
     left: 0;
     width: 100%;
     height: 160%;
-    background-image: url('/images/364adf12-faa7-413b-845a-7de32ce5be67.png');
+    background-image: url('./images/364adf12-faa7-413b-845a-7de32ce5be67.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -879,7 +879,7 @@ section {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/images/ChatGPT Image Dec 31, 2025, 06_17_05 PM.png');
+    background-image: url('./images/ChatGPT Image Dec 31, 2025, 06_17_05 PM.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
